@@ -1,6 +1,8 @@
 # Jogo_da_forca
 Jogo da Forca criado em Javascript
 
+https://moajr.github.io/Jogo_da_forca/
+
 Fiz esse projeto inicialmente para treinar a função appendChild do javascript
 
 Com os estudos sobre essa função, criei um loop for para conseguir inserir na pagina HTML todas as letras do alfabeto em forma de Buttons.
